@@ -1,0 +1,24 @@
+{
+  "name": "delta",
+  "version": "1.0.0",
+  "description": "Delta is boilerplate app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --inspect server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+      "name": "Rajsh Kannan <vtrkanna> <Socista>",
+      "email": "https://github.com/socista/fillers"
+  },
+  "keywords": [
+      "boilerplate"
+  ],
+  "homepage": "https://github.com/socista/fillers#readme",
+  "bugs": {
+      "url": "https://github.com/socista/fillers/issues"
+  },
+  "repository": {
+  },
+  "license": "ISC"
+}
